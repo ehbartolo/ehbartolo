@@ -3,12 +3,9 @@
 I am Power System Engineer and Software Developer. </br>
 I took my BSc. and MEng Electrical Engineering at the University of the Philippines Diliman. </br>
 
-I am proficient in the following languages:
-### Languages
+<hr/>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/ehbartolo?tab=repositories)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/ehbartolo?tab=repositories)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)(https://github.com/ehbartolo?tab=repositories)
+### Languages
 
 - Python
 - MATLAB
@@ -18,6 +15,7 @@ I am proficient in the following languages:
 - HTML, CSS, Javascript
 <hr/>
 
+### Accomplishments
 My previous and current software development accomplishments are the following:
 - Automation of power systems simulation in PSS/E, PLEXOS and PSCAD using python (e.g. pandas, numpy, matplotlib, bokeh)
 - Automation of office work processes using SQL, and VBA
