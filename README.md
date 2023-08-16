@@ -23,7 +23,7 @@ My previous and current software development accomplishments are the following:
 - Data Analysis and Automation of workprocess using Python (e.g. Pandas, Matplotlib, etc.)
 
 - 📫 How to reach me:</br>
-  You can visit me at <href=www.linkedin.com/in/eldion-vincent-h-bartolo-b7753172>
+  You can visit me at <a href=www.linkedin.com/in/eldion-vincent-h-bartolo-b7753172> LinkedIn</a>
 
 
 <!--
