@@ -1,7 +1,7 @@
 ### Hi I am Eldion 👋
 
-I am Power System Engineer and Software Developer. 
-I took my BSc. and MEng Electrical Engineering at the University of the Philippines Diliman.
+I am Power System Engineer and Software Developer. </br>
+I took my BSc. and MEng Electrical Engineering at the University of the Philippines Diliman. </br>
 
 I am proficient in the following languages:
 - Python
@@ -10,6 +10,7 @@ I am proficient in the following languages:
 - SQL
 - MS Visual Basic Applications (MS Excel only)
 - HTML, CSS, Javascript
+<hr/>
 
 My previous and current software development accomplishments are the following:
 - Automation of power systems simulation in PSS/E, PLEXOS and PSCAD using python (e.g. pandas, numpy, matplotlib, bokeh)
@@ -17,7 +18,7 @@ My previous and current software development accomplishments are the following:
 - Forecasting using Machine Learning Models such as Scikit-Learn and Tensorflow
 - Data Analysis and Automation of workprocess using Python (e.g. Pandas, Matplotlib, etc.)
 
-- 📫 How to reach me:
+- 📫 How to reach me:</br>
   You can visit me at www.linkedin.com/in/eldion-vincent-h-bartolo-b7753172
 
 
