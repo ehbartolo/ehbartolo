@@ -6,9 +6,9 @@ I took my BSc. and MEng Electrical Engineering at the University of the Philippi
 I am proficient in the following languages:
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/ehbartolo?tab=repositories)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/ehbartolo?tab=repositories)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)(https://github.com/ehbartolo?tab=repositories)
 
 - Python
 - MATLAB
