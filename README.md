@@ -17,7 +17,7 @@ I took my BSc. and MEng Electrical Engineering at the University of the Philippi
 
 ### Accomplishments
 My previous and current software development accomplishments are the following:
-- Automation of power systems simulation in PSS/E, PLEXOS and PSCAD using python (e.g. pandas, numpy, matplotlib, bokeh)
+- Automation of power systems simulation in [PSS/E](https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software/pss-e.html), PLEXOS and PSCAD using python (e.g. pandas, numpy, matplotlib, bokeh)
 - Maintains and develops the GITLAB repository for PSS/E Python Scripts
 - Automation of office work processes using SQL, and VBA
 - Forecasting using Machine Learning Models such as Scikit-Learn and Tensorflow
